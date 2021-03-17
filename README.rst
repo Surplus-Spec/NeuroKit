@@ -1,3 +1,13 @@
+본 코드는 ECG(심전도)의 peak 점들과 다른 특징들을 찾는 코드이다.
+
+추가한 example.py는 P,Q,R,S,T peak점을 시각화하도록 작성한 예제 코드이며, 202m (1).mat 는 MILL dataset에서 하나의 데이터를 가져온 것이다.
+
+여러 peak 점을 추출하나, 몇 개의 Nan 값이 추출되어 peak점을 찾지 못하는 경우도 있다.
+
+아래 그림은 위에 데이터를 통해 간단히 만들어본 결과이다.
+
+
+
 .. image:: https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png
         :target: https://neurokit2.readthedocs.io/en/latest/?badge=latest
 
