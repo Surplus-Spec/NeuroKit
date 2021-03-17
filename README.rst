@@ -6,7 +6,9 @@
 
 아래 그림은 위에 데이터를 통해 간단히 만들어본 결과이다.
 
+https://user-images.githubusercontent.com/37894081/111419565-07daf400-872d-11eb-8434-b6cdc77027fb.png
 
+코드에 대한 자세한 설명은 아래와 같다.
 
 .. image:: https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png
         :target: https://neurokit2.readthedocs.io/en/latest/?badge=latest
